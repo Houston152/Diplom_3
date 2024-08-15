@@ -1,0 +1,6 @@
+pytest
+Faker
+selenium
+requests
+allure-pytest
+webdriver-manager
